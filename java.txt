@@ -1,0 +1,15 @@
+java 生来为大型项目而生
+http://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%AB%98%E6%96%AF%E6%9E%97
+java之父 James Gosling
+2011年8月30日，仅仅加入Google数月之后的高斯林就在个人博客上宣布离开Google，加盟一家从事海洋机器人研究的创业公司Liquid Robotics[1]，担任首席软件架构师
+http://blog.csdn.net/cpp_java_man/article/details/705319
+当比尔盖茨了解了Java的一些细节之后，给予了这样的评价:“Java是很长时间以来最优秀的程序设计语言。”
+visual j++
+就像xbox
+2001年6月5日，NOKIA宣布，到2003年将出售1亿部支持Java的手机 
+
+http://blog.csdn.net/cpp_java_man/article/details/705315
+Java是一种简单、动态、面向对象、分布式、解释执行、健壮、安全、结构中立、可移植、高效能、具有多线程能力的新一代语言。
+Java删除了许多极少被使用、不容易理解和容易令人混淆的C++功能。剔除的功能主要包括运算符重载、多重继承以及广泛的自动强迫同型。与C++相比，Java语言也提供重载函数，不过它重载的对象是函数而非变量或是运算符。
+　Java还增加了自动内存收集功能，从而简化了Java程序的工作，不过同时也让系统变得稍微复杂了一些。
+Java的目标之一是要协助开发能独立地在小型机器上顺利执行的软件。
